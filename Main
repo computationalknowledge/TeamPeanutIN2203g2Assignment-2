@@ -1,0 +1,13 @@
+// Part of your Grading is: lots of comments
+// including team members names and ids on every file you submit
+// file directory: C:\TEACHING\JavaGroceryStore
+
+public class GroceryStore{
+	
+	public static void main(String [] args){
+
+		System.out.println("Starting Application");
+
+	}
+
+}
